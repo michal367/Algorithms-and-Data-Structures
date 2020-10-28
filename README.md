@@ -105,7 +105,7 @@
 - singly linked cyclic list
 - count doubly linked list (self organizing list - count method)
 
-##### Algorithms
+#### Algorithms
 - singly linked list
 	- remove duplicates
 	- reverse list
@@ -144,7 +144,7 @@
 - hashtable implementation
 - tree (BST) implementation
 
-##### Algorithms
+#### Algorithms
 - union
 - intersection
 - difference
@@ -161,7 +161,7 @@
 	- without rank
 
 ### 7. Matrix
-##### Algorithms
+#### Algorithms
 - transpose
 - determinant
 - Gauss elimination
@@ -187,7 +187,7 @@
 - edge list
 - incidence matrix
 
-##### Algorithms
+#### Algorithms
 - DFS - depth first search
 - BFS - breadth first search
 - transpose
@@ -245,7 +245,7 @@
 - incidence matrix
 - multigraph (adjacency lists)
 
-##### Algorithms
+#### Algorithms
 - Dijkstra&#39;s algorithm
 - Bellman-Ford algorithm
 - Floyd-Warshall algorithm
@@ -261,7 +261,7 @@
 - adjacency matrix
 - adjacency lists
 
-##### Algorithms
+#### Algorithms
 - maximum flow
 	- Edmonds-Karp algorithm
 	- Dinic&#39;s algorithm
